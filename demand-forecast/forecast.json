@@ -1,0 +1,198 @@
+[
+    {
+        "service": "carpentry",
+        "forecast_date": "2026-08-31",
+        "day": 1,
+        "predicted_demand": 9,
+        "demand_level": "LOW"
+    },
+    {
+        "service": "carpentry",
+        "forecast_date": "2026-09-01",
+        "day": 2,
+        "predicted_demand": 10,
+        "demand_level": "LOW"
+    },
+    {
+        "service": "carpentry",
+        "forecast_date": "2026-09-02",
+        "day": 3,
+        "predicted_demand": 11,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "carpentry",
+        "forecast_date": "2026-09-03",
+        "day": 4,
+        "predicted_demand": 11,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "carpentry",
+        "forecast_date": "2026-09-04",
+        "day": 5,
+        "predicted_demand": 10,
+        "demand_level": "LOW"
+    },
+    {
+        "service": "carpentry",
+        "forecast_date": "2026-09-05",
+        "day": 6,
+        "predicted_demand": 9,
+        "demand_level": "LOW"
+    },
+    {
+        "service": "carpentry",
+        "forecast_date": "2026-09-06",
+        "day": 7,
+        "predicted_demand": 8,
+        "demand_level": "LOW"
+    },
+    {
+        "service": "cleaning",
+        "forecast_date": "2026-08-31",
+        "day": 1,
+        "predicted_demand": 20,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "cleaning",
+        "forecast_date": "2026-09-01",
+        "day": 2,
+        "predicted_demand": 21,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "cleaning",
+        "forecast_date": "2026-09-02",
+        "day": 3,
+        "predicted_demand": 22,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "cleaning",
+        "forecast_date": "2026-09-03",
+        "day": 4,
+        "predicted_demand": 22,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "cleaning",
+        "forecast_date": "2026-09-04",
+        "day": 5,
+        "predicted_demand": 21,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "cleaning",
+        "forecast_date": "2026-09-05",
+        "day": 6,
+        "predicted_demand": 20,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "cleaning",
+        "forecast_date": "2026-09-06",
+        "day": 7,
+        "predicted_demand": 19,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "electrical",
+        "forecast_date": "2026-08-31",
+        "day": 1,
+        "predicted_demand": 12,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "electrical",
+        "forecast_date": "2026-09-01",
+        "day": 2,
+        "predicted_demand": 13,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "electrical",
+        "forecast_date": "2026-09-02",
+        "day": 3,
+        "predicted_demand": 13,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "electrical",
+        "forecast_date": "2026-09-03",
+        "day": 4,
+        "predicted_demand": 13,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "electrical",
+        "forecast_date": "2026-09-04",
+        "day": 5,
+        "predicted_demand": 13,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "electrical",
+        "forecast_date": "2026-09-05",
+        "day": 6,
+        "predicted_demand": 12,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "electrical",
+        "forecast_date": "2026-09-06",
+        "day": 7,
+        "predicted_demand": 11,
+        "demand_level": "MEDIUM"
+    },
+    {
+        "service": "plumbing",
+        "forecast_date": "2026-08-31",
+        "day": 1,
+        "predicted_demand": 18,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "plumbing",
+        "forecast_date": "2026-09-01",
+        "day": 2,
+        "predicted_demand": 19,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "plumbing",
+        "forecast_date": "2026-09-02",
+        "day": 3,
+        "predicted_demand": 19,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "plumbing",
+        "forecast_date": "2026-09-03",
+        "day": 4,
+        "predicted_demand": 19,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "plumbing",
+        "forecast_date": "2026-09-04",
+        "day": 5,
+        "predicted_demand": 18,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "plumbing",
+        "forecast_date": "2026-09-05",
+        "day": 6,
+        "predicted_demand": 18,
+        "demand_level": "HIGH"
+    },
+    {
+        "service": "plumbing",
+        "forecast_date": "2026-09-06",
+        "day": 7,
+        "predicted_demand": 17,
+        "demand_level": "MEDIUM"
+    }
+]
